@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color: #436f8a;
+  font-family: 'Sriracha', cursive;
+}
+
+h5 {
+  color: #436f8a;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h6 {
+  color: #438a5e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.addImg {
+  margin: 1%;
+}
+
+body {
+  background-color: #f7fbe1;
+}
+
+button {
+  background-color: #bac964 !important;
+  border-color: #bac964 !important;
+  color: #436f8a !important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button:hover {
+  background-color: #86943a !important;
+  border-color: #86943a !important;
+  font-family: 'Montserrat', sans-serif;
+}
